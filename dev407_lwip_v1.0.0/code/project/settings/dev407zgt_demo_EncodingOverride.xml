@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>F:\RedDragon407\dev407zgt_demo\dev407zgt_demo\code\platform\drivers\src\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>F:\RedDragon407\dev407zgt_lwip\dev407zg_lwip_V1.0.0\code\platform\drivers\src\main.c</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+
