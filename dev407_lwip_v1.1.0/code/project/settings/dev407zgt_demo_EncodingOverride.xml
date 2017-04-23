@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>F:\RedDragon407\dev407zgt_lwip\dev407zgt_lwip_v1.0.0\code\platform\drivers\src\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>F:\RedDragon407\dev407zgt_lwip\dev407zgt_lwip_v1.1.0\code\common\malloc.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>F:\RedDragon407\dev407zgt_lwip\dev407zgt_lwip_v1.1.0\code\lwip\lwip-1.4.1\src\core\mem.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>F:\RedDragon407\dev407zgt_lwip\dev407zgt_lwip_v1.1.0\code\lwip\lwip_app\lwip_comm\lwip_comm.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>F:\RedDragon407\dev407zgt_lwip\dev407zgt_lwip_v1.1.0\code\lwip\lwip_app\lwip_comm\lwipopts.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>F:\RedDragon407\dev407zgt_lwip\dev407zgt_lwip_v1.1.0\code\lwip\lwip_arch\ucos_arch\sys_arch.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>F:\RedDragon407\dev407zgt_lwip\dev407zgt_lwip_v1.1.0\code\network\netconn_udp.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>F:\RedDragon407\dev407zgt_lwip\dev407zgt_lwip_v1.1.0\code\platform\devs\src\lan8720.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>F:\RedDragon407\dev407zgt_lwip\dev407zgt_lwip_v1.1.0\code\platform\drivers\src\main.c</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+
